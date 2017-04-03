@@ -1,0 +1,11 @@
+# ignore data
+data/
+
+# ignore .pyc files
+*.pyc
+
+# ignore mac system files
+.DS_Store
+
+# ignore jupyter-notebook checkpoints
+.ipynb_checkpoints
